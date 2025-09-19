@@ -4,7 +4,7 @@ Arrage
   - Moq: Setup, Retuns, Callback, It, Throws
 
 Assert
-  - XUnit: Equal, IsAssignableFrom, IsType, Null, Collection
+  - XUnit: Equal, IsAssignableFrom, IsType, Null, Collection, All
   - Moq: Verify, Verifiable -> Times
   - Result: object, view
 
