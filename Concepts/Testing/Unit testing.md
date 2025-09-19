@@ -6,7 +6,7 @@ Arrage
 Assert
   - XUnit: Equal, IsAssignableFrom, IsType, Null, Collection, All
   - Moq: Verify, Verifiable -> Times
-  - Result: object, view
+  - Result: ObjectResult, ViewResult
 
 [[Integration testing]]
 
