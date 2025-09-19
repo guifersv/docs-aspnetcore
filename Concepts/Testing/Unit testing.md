@@ -1,10 +1,10 @@
 Naming: ==Method_Scenario_ExpectedBehavior==
 
 Arrage
-  - Moq: Setup, Retuns, Result, It, Throws
+  - Moq: Setup, Retuns, Callback, It, Throws
 
 Assert
-  - XUnit: Equal, IsAssignableFrom, IsType, Null
+  - XUnit: Equal, IsAssignableFrom, IsType, Null, Collection
   - Moq: Verify, Verifiable -> Times
   - Result: object, view
 
