@@ -13,5 +13,9 @@
 - Testing
 	- Unit and Integration tests
 	- Mock and stub
+- Background Tasks
+  	- Hosted Service
+  	- Background Service
+  	- Timed Services
 
 [[Unit testing]]
