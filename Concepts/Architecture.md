@@ -17,5 +17,6 @@
   	- Hosted Service
   	- Background Service
   	- Timed Services
+  	- Scoped Services
 
 [[Unit testing]]
